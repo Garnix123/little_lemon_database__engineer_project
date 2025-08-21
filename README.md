@@ -23,7 +23,7 @@ Little Lemon is a family-owned Mediterranean restaurant in Chicago.
 
 ## 📊 Visualizations
 **Bookings by Date (counts)**  
-<img width="1250" height="680" alt="Image" src="https://github.com/user-attachments/assets/72e73c29-e818-4183-a09c-0db7e0e9baf1" />
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/72e73c29-e818-4183-a09c-0db7e0e9baf1" />
 
 _Insight:_ 2021-11-11 was the busiest day (4 bookings). This informs staffing and inventory planning.
 
