@@ -61,3 +61,17 @@ This project covers **all core SQL categories** with specific statements and fun
 - **String & Formatting Functions**  
   - `CONCAT()` → Create user-friendly booking details string  
 
+---
+
+## 🏁 Conclusion
+This project demonstrates how SQL supports **day-to-day restaurant operations**: managing reservations, customers, menus, and analytics.  
+
+It also reflects my ability to use SQL across its core domains (**definition, manipulation, queries, and programmability**).  
+These skills translate beyond restaurants, applying to **finance, retail, logistics, and any data-driven industry**.
+
+---
+
+## 📬 Contact
+💬 If you have any questions about this project, feel free to connect with me:  
+- LinkedIn: [Dominik Vyleta](https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/)  
+- Email: [vyleta.dom@gmail.com](mailto:vyleta.dom@gmail.com)  
