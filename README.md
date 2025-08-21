@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 Little Lemon is a family-owned Mediterranean restaurant in Chicago.  
-This project showcases practical SQL skills for a hospitality use case: customer records, table bookings, menu pricing, and operational reporting.
+- This project showcases practical SQL skills for a hospitality use case: customer records, table bookings, menu pricing, and operational reporting.
 
 **Why it matters (for HR & hiring managers):**
 - Demonstrates **core SQL fluency** across DDL, DML, joins, grouping, subqueries, views, and stored procedures.
