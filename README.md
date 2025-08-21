@@ -25,7 +25,11 @@ Little Lemon is a family-owned Mediterranean restaurant in Chicago.
 **Bookings by Date (counts)**  
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/72e73c29-e818-4183-a09c-0db7e0e9baf1" />
 
-_Insight:_ 2021-11-11 was the busiest day (4 bookings). This informs staffing and inventory planning.
+📌 **Description & Insights:**  
+This bar chart shows how many bookings were made on each date between **November 10–14, 2021**.  
+- **November 11th** was the busiest day, with the highest number of bookings.  
+- This insight is important for **staff scheduling, kitchen preparation, and inventory management**, since it highlights peak demand days.  
+- Over time, such analysis can be used to **predict seasonal patterns** and improve **customer experience** by avoiding overcrowding.  
 
 ---
 
